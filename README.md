@@ -3,7 +3,7 @@ Zero Point Craig
 
 ### Road Map
 
- - Improved coming soon screen
+ - ~Improved coming soon screen~
  - Webcam! Green screen?
 
 ### Twitch ideas

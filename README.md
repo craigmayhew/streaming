@@ -1,7 +1,7 @@
 Zero Point Craig
 ================
 
-This repo hosted at github.io: https://craigmayhew.github.io/streaming/
+This repo hosted at github.io: <a href="https://craigmayhew.github.io/streaming/">https://craigmayhew.github.io/streaming/</a>
 
 <img alt="Zero Point Craig" src="https://craigmayhew.github.io/streaming/zero-point-craig.png" width="200" style="float: right;" />
 

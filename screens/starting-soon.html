@@ -21,19 +21,19 @@
 	</div>
 
 	<script>
-			var now = new Date();
+			var nowDate = new Date();
 			var countDownDate = new Date();
-			countDownDate.setDate(now.getDate() + 7);
+			countDownDate.setDate(nowDate.getDate() + 7);
 			countDownDate.setHours(12);
 			countDownDate.setMinutes(30);                    
 			
 			// Update the count down every 1 second
 			var x = setInterval(function() {
 				// Get today's date and time
-				var now = new Date().getTime();
+				var nowDateTime = nowDate.getTime();
 			
 				// Find the distance between now and the count down date
-				var distance = countDownDate - now;
+				var distance = countDownDate - nowDateTime;
 			
 				// Time calculations for days, hours, minutes and seconds
 				var days = Math.floor(distance / (1000 * 60 * 60 * 24));

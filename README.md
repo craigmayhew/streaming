@@ -1,16 +1,16 @@
 Zero Point Craig
 ================
 
-This repo hosted at github.io: <a href="https://craigmayhew.github.io/streaming/">https://craigmayhew.github.io/streaming/</a>
+This repo is hosted at github.io: https://craigmayhew.github.io/streaming/
 
-<img alt="Zero Point Craig" src="https://craigmayhew.github.io/streaming/zero-point-craig.png" width="200" style="float: right;" />
+[Twitch](https://www.twitch.tv/zeropointcraig)
+Live streaming every weekend!
 
-### Road Map
+[Patreon](https://www.patreon.com/craigmayhew)
+An easy way to throw some cash my way!
 
- - ~Improved coming soon screen~
- - ~Webcam! Green screen?~
+[YouTube](https://www.youtube.com/channel/UCzaklDzRExfwcNOminkLYnA)
+All twitch streams are archived and uploaded to TouTube!
 
-### Twitch ideas
-
- - Compiling some rust!
- - Working with AWS, infrastructure as code.
+[Twitter](https://twitter.com/craigmayhew)
+Want to collaborate, show me something cool or have some ideas for the stream? Tweet me!
